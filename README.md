@@ -10,10 +10,11 @@ A 30-day, 1-hour-a-day study log following Baraa’s free 30-hour SQL course (Yo
 - [03-Window-Functions](./03-Window-Functions/)
 - [04-Advanced](./04-Advanced/)
 - [05-Projects](./05-Projects/)
+- [Time Plan (PDF)](./Baraa_SQL_30Day_Plan.pdf)
 
 ## How this repo is organized
 
-Each folder maps to a course level: Beginner, Intermediate, Window Functions, Advanced, and Projects. Daily notes will be added as markdown files inside those folders, following the template in [/Templates](./Templates/).
+Each folder maps to a course level: Beginner, Intermediate, Window Functions, Advanced, and Projects. Daily notes will be added as markdown files inside those folders, following the template in [/Templates].
 
 ## Progress
 
